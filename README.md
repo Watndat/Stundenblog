@@ -40,9 +40,10 @@ Somit haben wir heute dazu benutzt, um uns mit dem Programm vertraut zu machen u
 
 ### Wochenende, 06.12. - 08.12.2019 <a name="4"></a>
 
-Über das Wochende haben wir uns nochmal etwas mit Android Studios auseinandergesetzt und weiter Funktionen gelernt:
+Über das Wochende haben wir uns nochmal etwas mit Android Studios auseinandergesetzt und weiter Funktionen gelernt.
 
 ### Dienstag, 10.12.2019 <a name="5"></a>
 
-Die Stunde haben wir damit begonnen einen Plan zu erstellen, was wir bereits in Android Studios geschafft haben. Dazu haben wir eine Übersicht erstellt und zu den jeweiligen Punkten die demendsprechende Funktion geschrieben. Es wird nun für uns etwas übersichtlicher und wir können auch besser nachvolltiehen, was wir gemacht haben.
+Die Stunde haben wir damit begonnen einen Plan zu erstellen, was wir bereits in Android Studios geschafft haben. Dazu haben wir eine Übersicht erstellt und zu den jeweiligen Punkten die demendsprechende Funktion geschrieben. Es wird nun für uns etwas übersichtlicher und wir können auch besser nachvolltiehen, was wir gemacht haben.  
+Außerdem haben wir uns weiter mit Android Studios auseinandergestzt, um alle Funktionen verstehen zu können.
 
