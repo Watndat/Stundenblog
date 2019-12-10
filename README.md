@@ -10,7 +10,17 @@
 
 [Donnerstag, 05.12.2019](#3)
 
-</details>
+[Wochenende, 06.12. - 08.12.2019](#4)
+
+[Dienstag, 10.12.2019](#5)
+
+</details> <hr>
+
+## Quellen
+
+[Quellen](#6)
+
+<hr>
 
 ## Arbeitstage - Dezember
 
@@ -27,3 +37,12 @@ Für unser neues Projekt haben wir heute angefangen einen Stundenblog anzulegen.
 
 Heute versuchen wir den ersten Versuch von gestern nochmal nachzubauen und etwas zu vernbessern. Spoiler - das klappt noch nicht so, wie wir wollen.  
 Somit haben wir heute dazu benutzt, um uns mit dem Programm vertraut zu machen und dann auch ein Projekt so bauen zu können.
+
+### Wochenende, 06.12. - 08.12.2019 <a name="4"></a>
+
+Über das Wochende haben wir uns nochmal etwas mit Android Studios auseinandergesetzt und weiter Funktionen gelernt:
+
+### Dienstag, 10.12.2019 <a name="5"></a>
+
+Die Stunde haben wir damit begonnen einen Plan zu erstellen, was wir bereits in Android Studios geschafft haben. Dazu haben wir eine Übersicht erstellt und zu den jeweiligen Punkten die demendsprechende Funktion geschrieben. Es wird nun für uns etwas übersichtlicher und wir können auch besser nachvolltiehen, was wir gemacht haben.
+
