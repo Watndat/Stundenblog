@@ -14,11 +14,13 @@
 
 [Dienstag, 10.12.2019](#5)
 
+[Mittwoch, 11.12.2019](#6)
+
 </details> <hr>
 
 ## Quellen
 
-[Quellen](#6)
+[Quellen](#7)
 
 <hr>
 
@@ -47,3 +49,10 @@ Somit haben wir heute dazu benutzt, um uns mit dem Programm vertraut zu machen u
 Die Stunde haben wir damit begonnen einen Plan zu erstellen, was wir bereits in Android Studios geschafft haben. Dazu haben wir eine Übersicht erstellt und zu den jeweiligen Punkten die demendsprechende Funktion geschrieben. Es wird nun für uns etwas übersichtlicher und wir können auch besser nachvolltiehen, was wir gemacht haben.  
 Außerdem haben wir uns weiter mit Android Studios auseinandergestzt, um alle Funktionen verstehen zu können.
 
+### Mittwoch, 11.12.2019 <a name="6"></a>
+
+Da heute mal wieder das Internet in der Schule ausgefallen ist, konnten wir zwar weiter an Android Studios herumprobieren, jedoch keine neue Funktionen aus dem Internet suchen und diese verstehen. 
+
+<hr>
+
+## Quellen 
