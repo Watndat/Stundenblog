@@ -16,11 +16,13 @@
 
 [Mittwoch, 11.12.2019](#6)
 
+[Donnerstag, 12.12.2019](#7)
+
 </details> <hr>
 
 ## Quellen
 
-[Quellen](#7)
+[Quellen](#)
 
 <hr>
 
@@ -52,6 +54,10 @@ Außerdem haben wir uns weiter mit Android Studios auseinandergestzt, um alle Fu
 ### Mittwoch, 11.12.2019 <a name="6"></a>
 
 Da heute mal wieder das Internet in der Schule ausgefallen ist, konnten wir zwar weiter an Android Studios herumprobieren, jedoch keine neue Funktionen aus dem Internet suchen und diese verstehen. 
+
+### Donnerstag, 12.12.2019 <a name="7"></a>
+
+Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem recherchieren konnten. Momentan sind wir am Ausprobieren, dass wir ein Passwort eingeben und der Schirm danach die Person identifiziert. Allerdings konnten wir nich nicht herausfinden, wie man ein Passwort im Code definiert. 
 
 <hr>
 
