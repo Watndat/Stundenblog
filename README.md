@@ -18,6 +18,8 @@
 
 [Donnerstag, 12.12.2019](#7)
 
+Wochende 14/15.12
+
 </details> <hr>
 
 ## Quellen
@@ -58,6 +60,10 @@ Da heute mal wieder das Internet in der Schule ausgefallen ist, konnten wir zwar
 ### Donnerstag, 12.12.2019 <a name="7"></a>
 
 Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem recherchieren konnten. Momentan sind wir am Ausprobieren, dass wir ein Passwort eingeben und der Schirm danach die Person identifiziert. Allerdings konnten wir nich nicht herausfinden, wie man ein Passwort im Code definiert. 
+
+wochendede 14/15
+
+rausgefunden wie Passwort programmierbar -> wenn richtig seite mit hallo , wennn falsch seite mit your password is wrong
 
 <hr>
 
