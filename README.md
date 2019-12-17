@@ -20,6 +20,10 @@
 
 Wochende 14/15.12
 
+Montag, 16.12.19
+
+Dienstag, 117.12.19
+
 </details> <hr>
 
 ## Quellen
@@ -64,6 +68,16 @@ Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem
 wochendede 14/15
 
 rausgefunden wie Passwort programmierbar -> wenn richtig seite mit hallo , wennn falsch seite mit your password is wrong
+
+Montag, 16.12.19
+
+Open CV heruntergeladen und durch Tutorial 
+https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c
+mit Android Studio verknüpft.
+
+Dienstag, 17.12.19
+
+Test App aus Turotial ausporbiert und angefangen durch zuarbeiten um diese zu verstehen.
 
 <hr>
 
