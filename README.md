@@ -18,11 +18,13 @@
 
 [Donnerstag, 12.12.2019](#7)
 
-Wochende 14/15.12
+[Wochende, 14.12. - 15.12.2019](#8)
 
-Montag, 16.12.19
+[Montag, 16.12.2019](#9)
 
-Dienstag, 117.12.19
+[Dienstag, 17.12.2019](#10)
+
+[Mittwoch, 18.12.2019](#11)
 
 </details> <hr>
 
@@ -65,19 +67,23 @@ Da heute mal wieder das Internet in der Schule ausgefallen ist, konnten wir zwar
 
 Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem recherchieren konnten. Momentan sind wir am Ausprobieren, dass wir ein Passwort eingeben und der Schirm danach die Person identifiziert. Allerdings konnten wir nich nicht herausfinden, wie man ein Passwort im Code definiert. 
 
-wochendede 14/15
+### Wochendede, 14.12. - 15.12.2019 <a name="8"></a>
 
-rausgefunden wie Passwort programmierbar -> wenn richtig seite mit hallo , wennn falsch seite mit your password is wrong
+Über das Wochenden haben wir weiter daram herumprobiert, wie ein Passwort zu programmieren ist. Das haben wir tatsächlich geschafft. Wenn nun das Passwort eigegeben wird, dann kommt ein neuer Screen, auf dem *HAllO* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
 
-Montag, 16.12.19
+### Montag, 16.12.2019 <a name="9"></a>
 
-Open CV heruntergeladen und durch Tutorial 
-https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c
+Um nun unser Plan mit der Gesichtserkennung umsetzen zu können, müssen wir ein Programm für eine KI mit Android Studios verknüpfen. Dazu haben wir zunächst *Open CV* heruntergeladen und über:  
+https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c  
 mit Android Studio verknüpft.
 
-Dienstag, 17.12.19
+### Dienstag, 17.12.2019 <a name="10"></a>
 
-Test App aus Turotial ausporbiert und angefangen durch zuarbeiten um diese zu verstehen.
+Zunächst haben wir uns über verschiedene Tutorials gelernt, welche Funktionen mit dieser Verknüpfung möglich sind. Dazu haben wir über ein Tutorial eine Testapp ausprobiert. Dabei können verschieden Farben erkannt werden.
+
+### Mittwoch, 18.12.2019 <a name="11"></a>
+
+Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuchen wir den Code aus dem Tutorial zu verstehen und so zu veknüpfgen, dass wir unsere Gesichtserkennnungs App programmieren können.
 
 <hr>
 
