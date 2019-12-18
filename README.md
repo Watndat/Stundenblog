@@ -83,7 +83,7 @@ Zunächst haben wir uns über verschiedene Tutorials gelernt, welche Funktionen 
 
 ### Mittwoch, 18.12.2019 <a name="11"></a>
 
-Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuchen wir den Code aus dem Tutorial zu verstehen und so zu veknüpfgen, dass wir unsere Gesichtserkennnungs App programmieren können.
+Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuchen wir den Code aus dem Tutorial zu verstehen und so eine erste grobe Idee zu bekommen, wie wir unser Gesichtserkennungsprogrammm programmieren können.
 
 <hr>
 
