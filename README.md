@@ -26,9 +26,14 @@
 
 [Mittwoch, 18.12.2019](#11)
 
-Donnerstag,19.12.19
+[Donnerstag, 19.12.2019](#12)
 
 </details> <hr>
+
+<details>
+  <summary>Januar</summary>
+  
+[Dienstag, 14.01.2020](#13)
 
 ## Quellen
 
@@ -87,10 +92,16 @@ Zunächst haben wir uns über verschiedene Tutorials gelernt, welche Funktionen 
 
 Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuchen wir den Code aus dem Tutorial zu verstehen und so eine erste grobe Idee zu bekommen, wie wir unser Gesichtserkennungsprogrammm programmieren können.
 
-Donnerstag, 19.12.19
+### Donnerstag, 19.12.19 <a name="12"></a>
 
-weiter an verstehung vom testprogramm gearbeitet. Grundsätzlichen Plan angefangen aufzuschreiben wie das Programm funkioniert.
+Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehen. zusätzlich haben wir grundsätzlich weiter zu verstehen. Damit wir eine bessere Übersicht über unsere Arbeitszeit haben, haben wir schonmal einen Plan erstellt, wie wir die App aufbauen und welche Funktionen diese haben soll.
 
 <hr>
+
+## Arbeitstage - Januar
+
+### Dienstag, 14.01.2020 <a name="13"></a>
+
+Heute haben wir vor allem unseren Stundenblog aufgearbeitet. Wir haben über dieWeihnachstferien viel an unserem Programm gearbeitet, sodass die App schon Gesichter erkennen kann.
 
 ## Quellen 
