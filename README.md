@@ -37,6 +37,10 @@
   
 [Dienstag, 14.01.2020](#14)
 
+[Mittwoch, 15.01.2020](#15)
+
+[Donnerstag, 16.01.2020](#hallo)
+
 </details>
 
 ## Quellen
@@ -111,5 +115,10 @@ Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehe
 ### Dienstag, 14.01.2020 <a name="14"></a>
 
 Heute haben wir vor allem unseren Stundenblog aufgearbeitet. Wir haben über dieWeihnachstferien viel an unserem Programm gearbeitet, sodass die App schon Gesichter erkennen kann.
+
+### Mittwoch, 15.01.2020 <a name="15"></a>
+
+
+### Donnerstag, 16.01.2020 <a name="hallo"></a>
 
 ## Quellen 
