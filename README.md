@@ -28,12 +28,16 @@
 
 [Donnerstag, 19.12.2019](#12)
 
+[Weihnachtsferien, 23.12.2019 - 06.01.2020](#13)
+
 </details> <hr>
 
 <details>
   <summary>Januar</summary>
   
-[Dienstag, 14.01.2020](#13)
+[Dienstag, 14.01.2020](#14)
+
+</details>
 
 ## Quellen
 
@@ -96,11 +100,15 @@ Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuc
 
 Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehen. zusätzlich haben wir grundsätzlich weiter zu verstehen. Damit wir eine bessere Übersicht über unsere Arbeitszeit haben, haben wir schonmal einen Plan erstellt, wie wir die App aufbauen und welche Funktionen diese haben soll.
 
+### Weihnachtsferien, 23.12.2019 - 06.01.2020 <a name="12></a>
+  
+
+
 <hr>
 
 ## Arbeitstage - Januar
 
-### Dienstag, 14.01.2020 <a name="13"></a>
+### Dienstag, 14.01.2020 <a name="14"></a>
 
 Heute haben wir vor allem unseren Stundenblog aufgearbeitet. Wir haben über dieWeihnachstferien viel an unserem Programm gearbeitet, sodass die App schon Gesichter erkennen kann.
 
