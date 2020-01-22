@@ -152,12 +152,11 @@ https://blog.codeonion.com/2016/04/09/show-camera-on-android-app-using-opencv-fo
 https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java
 https://gist.github.com/heaversm/63e8036af6a124aecf3b26898bd2a0ad
 
-
-      der Inder:
-      https://www.youtube.com/watch?v=VRLfzi5bdJs&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=1
-      https://www.youtube.com/watch?v=7M5Q4ksy5zc&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=2
-      https://www.youtube.com/watch?v=xDA0Rp9018M&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=3
-      
+   der Inder:
+   https://www.youtube.com/watch?v=VRLfzi5bdJs&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=1
+   https://www.youtube.com/watch?v=7M5Q4ksy5zc&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=2
+   https://www.youtube.com/watch?v=xDA0Rp9018M&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=3
+     
 
 Face Detection Code:
 https://www.mirkosertic.de/blog/2013/07/realtime-face-detection-on-android-using-opencv/
@@ -167,14 +166,15 @@ https://github.com/joaopedronardari/OpenCV-AndroidSamples/blob/master/app/src/ma
 
 
 Wissen über Begriffe:
-      die Matrix:
-      https://developer.android.com/reference/android/opengl/Matrix
-      CameraBridgeViewBase:
-      https://docs.opencv.org/java/2.4.4-beta/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html
-      Grundsätzlich OpenCV und Android Studios:
-      https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html
-      Farbräume in OpenCV:
-      https://stackoverflow.com/questions/26059507/how-can-i-know-if-a-image-is-rgb-in-opencv
+
+   die Matrix:
+   https://developer.android.com/reference/android/opengl/Matrix
+   CameraBridgeViewBase:
+   https://docs.opencv.org/java/2.4.4-beta/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html
+   Grundsätzlich OpenCV und Android Studios:
+   https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html
+   Farbräume in OpenCV:
+   https://stackoverflow.com/questions/26059507/how-can-i-know-if-a-image-is-rgb-in-opencv
 
 Kamera drehen:
 https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916
