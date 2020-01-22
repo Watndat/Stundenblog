@@ -39,7 +39,7 @@
 
 [Mittwoch, 15.01.2020](#15)
 
-[Donnerstag, 16.01.2020](#hallo)
+[Donnerstag, 16.01.2020](#16)
 
 </details>
 
@@ -106,7 +106,7 @@ Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehe
 
 ### Weihnachtsferien, 23.12.2019 - 06.01.2020 <a name="12></a>
   
-
+am projekt weiter gearbeitet
 
 <hr>
 
@@ -118,7 +118,10 @@ Heute haben wir vor allem unseren Stundenblog aufgearbeitet. Wir haben über die
 
 ### Mittwoch, 15.01.2020 <a name="15"></a>
 
+an github weiter gearbeitet
 
-### Donnerstag, 16.01.2020 <a name="hallo"></a>
+### Donnerstag, 16.01.2020 <a name="16"></a>
+
+an github weiter gearbeitet
 
 ## Quellen 
