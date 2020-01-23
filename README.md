@@ -43,6 +43,8 @@
 
 [Mittwoch, 22.01.2020](#17)
 
+[Donnerstag, 23.01.2020](#18)
+
 </details>
 
 ## Quellen
@@ -120,15 +122,19 @@ Heute haben wir vor allem unseren Stundenblog aufgearbeitet. Wir haben über die
 
 ### Mittwoch, 15.01.2020 <a name="15"></a>
 
-an github weiter gearbeitet
+Da wir über die Ferien recht viel gemacht haben, haben wir uns heute beraten und unser Projekt, soweit wie wir sind, besprochen. Außerdem haben wir angefangen den Blog weiter aufzuarbeiten.
 
 ### Donnerstag, 16.01.2020 <a name="16"></a>
 
-an github weiter gearbeitet
+Auch heute haben wir zunächst weiter an unserem Blog gearbeitet und diesen vervollständigt. Dabei haben wir auch schon mal auf den Code geschaut, um Quellen etc. enbrigen zu können.
 
 ### Mittwoch, 22.01.2020 <a name="17"></a>
 
-an github weiter gearbeitet + Quellen sortiert
+in der letzten Stunde haben wir schonmal alle Quellen geöffnet und durvchsucht, sodass wir nun heute die Quellen in unserem Blog sortiert und eingefügt haben. Dabei haben wir zur besseren übersicht Kategorien erstellt, bei denen die einzellnen Quellen zuzuordnen sind. Das Problem an unsererm derzeitigen Projekt ist auch, dass viel von dem Code aus dem internet kommt, sodass wir für jeden Code auch eine Quelle haben. 
+
+### Donnerstag, 23.01.2020 <a name="18"></a>
+
+Die heutige Stunde haben wir dafür genutzt an unserer Projektseite weiterzuschreiben. Bei unserem Projekt sitzen wir immernoch daran den Code zu verstehen. Darum versuchen wir uns da immer mal zwischendurch ranzusetzten, um diesen weiter nachvollziehen zu können.
 
 ## Quellen 
 
