@@ -136,6 +136,8 @@ in der letzten Stunde haben wir schonmal alle Quellen geöffnet und durvchsucht,
 
 Die heutige Stunde haben wir dafür genutzt an unserer Projektseite weiterzuschreiben. Bei unserem Projekt sitzen wir immernoch daran den Code zu verstehen. Darum versuchen wir uns da immer mal zwischendurch ranzusetzten, um diesen weiter nachvollziehen zu können.
 
+<hr>
+
 ## Quellen 
 
 Android Studios:
