@@ -45,6 +45,8 @@
 
 [Donnerstag, 23.01.2020](#18)
 
+[Dienstag, 28.01.2020](#19)
+
 </details>
 
 ## Quellen
@@ -130,11 +132,15 @@ Auch heute haben wir zunächst weiter an unserem Blog gearbeitet und diesen verv
 
 ### Mittwoch, 22.01.2020 <a name="17"></a>
 
-in der letzten Stunde haben wir schonmal alle Quellen geöffnet und durvchsucht, sodass wir nun heute die Quellen in unserem Blog sortiert und eingefügt haben. Dabei haben wir zur besseren übersicht Kategorien erstellt, bei denen die einzellnen Quellen zuzuordnen sind. Das Problem an unsererm derzeitigen Projekt ist auch, dass viel von dem Code aus dem internet kommt, sodass wir für jeden Code auch eine Quelle haben. 
+In der letzten Stunde haben wir schonmal alle Quellen geöffnet und durvchsucht, sodass wir nun heute die Quellen in unserem Blog sortiert und eingefügt haben. Dabei haben wir zur besseren übersicht Kategorien erstellt, bei denen die einzellnen Quellen zuzuordnen sind. Das Problem an unsererm derzeitigen Projekt ist auch, dass viel von dem Code aus dem internet kommt, sodass wir für jeden Code auch eine Quelle haben. 
 
 ### Donnerstag, 23.01.2020 <a name="18"></a>
 
 Die heutige Stunde haben wir dafür genutzt an unserer Projektseite weiterzuschreiben. Bei unserem Projekt sitzen wir immernoch daran den Code zu verstehen. Darum versuchen wir uns da immer mal zwischendurch ranzusetzten, um diesen weiter nachvollziehen zu können.
+
+### Dienstag, 28.01.2020 <a name="19"></a>
+
+Auch heute haben wir unsere Stunde damit verbracht die Githup Projektseite zu vervollständigen. Dabei haben wir auch auf dem Code von den App geschaut, um diesen weiter zu verstehen. 
 
 <hr>
 
