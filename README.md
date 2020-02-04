@@ -47,7 +47,14 @@
 
 [Dienstag, 28.01.2020](#19)
 
-</details>
+</details> <hr>
+
+<details>
+  <summary>Februar</summary>
+  
+[Diensatag, 04.02.2020](#20)
+
+</details> <hr>
 
 ## Quellen
 
@@ -141,6 +148,14 @@ Die heutige Stunde haben wir dafür genutzt an unserer Projektseite weiterzuschr
 ### Dienstag, 28.01.2020 <a name="19"></a>
 
 Auch heute haben wir unsere Stunde damit verbracht die Githup Projektseite zu vervollständigen. Dabei haben wir auch auf dem Code von den App geschaut, um diesen weiter zu verstehen. 
+
+<hr>
+
+## Arbeitstage - Februar
+
+### Dienstag, 04.02.2020 <a name="20"></a>
+
+Diese Stunde haben wir einen Plan gemacht, was wir alles noch machen müssen. Dabei steht vor allem der Blog im Vordergrund. Zusätzlich müssen wir noch in der Gesichtserkennung die Kamera drehen, sodass die Gesichtserkennung die Gesichter sicherer erkennt.
 
 <hr>
 
