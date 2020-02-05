@@ -54,6 +54,8 @@
   
 [Diensatag, 04.02.2020](#20)
 
+[Mittwoch, 05.02.2020](#21)
+
 </details> <hr>
 
 ## Quellen
@@ -117,7 +119,7 @@ Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuc
 
 Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehen. zusätzlich haben wir grundsätzlich weiter zu verstehen. Damit wir eine bessere Übersicht über unsere Arbeitszeit haben, haben wir schonmal einen Plan erstellt, wie wir die App aufbauen und welche Funktionen diese haben soll.
 
-### Weihnachtsferien, 23.12.2019 - 06.01.2020 <a name="12></a>
+### Weihnachtsferien, 23.12.2019 - 06.01.2020 <a name="13"></a>
   
 am projekt weiter gearbeitet
 
@@ -156,6 +158,12 @@ Auch heute haben wir unsere Stunde damit verbracht die Githup Projektseite zu ve
 ### Dienstag, 04.02.2020 <a name="20"></a>
 
 Diese Stunde haben wir einen Plan gemacht, was wir alles noch machen müssen. Dabei steht vor allem der Blog im Vordergrund. Zusätzlich müssen wir noch in der Gesichtserkennung die Kamera drehen, sodass die Gesichtserkennung die Gesichter sicherer erkennt.
+
+### Mittwoch, 05.02.2020 <a name="21"></a>
+
+Da nun letzte Stunde der Plan fertig geworden ist, was noch zu erledigen ist, beschäftigen wir uns nun erstmal mit der Projektbeschreibung. Dabei beschreiben wir vor allem, wie wir die Java Sprache gelernt haben und wie wir durch ausprobieren und durch Bibliotheken die Sprache gelerent haben.
+
+https://github.com/Watndat/Projektbeschreibunng/blob/master/README.md
 
 <hr>
 
