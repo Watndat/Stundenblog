@@ -173,6 +173,12 @@ Android Studios:
 https://opencv.org/android/
 https://opencv.org/android-best-practices/
 
+Java Sprache:
+https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/
+https://www.programmierenlernenhq.de/klassen-in-java/
+https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/
+
+
 OpenCV in Android Studios integrieren:
 https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c -> auch Tutorial
 https://developer.android.com/ndk/downloads
