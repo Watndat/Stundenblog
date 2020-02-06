@@ -56,8 +56,6 @@
 
 [Mittwoch, 05.02.2020](#21)
 
-[Donnerstag, 06.02.2020](#22)
-
 </details> <hr>
 
 ## Quellen
@@ -167,10 +165,6 @@ Da nun letzte Stunde der Plan fertig geworden ist, was noch zu erledigen ist, be
 
 https://github.com/Watndat/Projektbeschreibunng/blob/master/README.md
 
-### Donnerstag, 05.02.2020 <a name="22"></a>
-
-
-
 <hr>
 
 ## Quellen 
@@ -183,6 +177,7 @@ Java Sprache:
 https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/
 https://www.programmierenlernenhq.de/klassen-in-java/
 https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/
+https://www.programmierenlernenhq.de/uberladen-von-methoden-in-java/
 
 
 OpenCV in Android Studios integrieren:
