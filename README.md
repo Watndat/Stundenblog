@@ -56,6 +56,8 @@
 
 [Mittwoch, 05.02.2020](#21)
 
+[Donnerstag, 06.02.2020](#22)
+
 </details> <hr>
 
 ## Quellen
@@ -164,6 +166,10 @@ Diese Stunde haben wir einen Plan gemacht, was wir alles noch machen müssen. Da
 Da nun letzte Stunde der Plan fertig geworden ist, was noch zu erledigen ist, beschäftigen wir uns nun erstmal mit der Projektbeschreibung. Dabei beschreiben wir vor allem, wie wir die Java Sprache gelernt haben und wie wir durch ausprobieren und durch Bibliotheken die Sprache gelerent haben.
 
 https://github.com/Watndat/Projektbeschreibunng/blob/master/README.md
+
+### Donnerstag, 05.02.2020 <a name="22"></a>
+
+
 
 <hr>
 
