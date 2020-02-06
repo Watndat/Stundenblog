@@ -175,60 +175,60 @@ Zum einen haben wir weiter an unserem Blog gearbeitet. Zum anderen haben wir uns
 
 ## Quellen 
 
-Android Studios:
-https://opencv.org/android/
+Android Studios:  
+https://opencv.org/android/  
 https://opencv.org/android-best-practices/
 
-Java Sprache:
-https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/
-https://www.programmierenlernenhq.de/klassen-in-java/
-https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/
+Java Sprache:  
+https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/  
+https://www.programmierenlernenhq.de/klassen-in-java/  
+https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/  
 https://www.programmierenlernenhq.de/uberladen-von-methoden-in-java/
 
 
-OpenCV in Android Studios integrieren:
-https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c -> auch Tutorial
-https://developer.android.com/ndk/downloads
+OpenCV in Android Studios integrieren:  
+https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c -> auch Tutorial  
+https://developer.android.com/ndk/downloads  
 https://stackoverflow.com/questions/6691951/android-how-to-add-r-raw-to-project/40538491
 
-Importe für OpenCV finden:
-https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java
-https://github.com/opencv/opencv/blob/master/data/lbpcascades/lbpcascade_frontalface.xml
+Importe für OpenCV finden:  
+https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java  
+https://github.com/opencv/opencv/blob/master/data/lbpcascades/lbpcascade_frontalface.xml  
 https://github.com/opencv/opencv/tree/master/data/lbpcascades
 
 
-Kamera anzeigen:
-https://blog.codeonion.com/2016/04/09/show-camera-on-android-app-using-opencv-for-android/
-https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java
+Kamera anzeigen:  
+https://blog.codeonion.com/2016/04/09/show-camera-on-android-app-using-opencv-for-android/  
+https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java  
 https://gist.github.com/heaversm/63e8036af6a124aecf3b26898bd2a0ad
 
-   der Inder:
-   https://www.youtube.com/watch?v=VRLfzi5bdJs&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=1
-   https://www.youtube.com/watch?v=7M5Q4ksy5zc&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=2
-   https://www.youtube.com/watch?v=xDA0Rp9018M&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=3
+   der Inder:  
+   https://www.youtube.com/watch?v=VRLfzi5bdJs&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=1  
+   https://www.youtube.com/watch?v=7M5Q4ksy5zc&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=2  
+   https://www.youtube.com/watch?v=xDA0Rp9018M&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=3  
      
 
-Face Detection Code:
-https://www.mirkosertic.de/blog/2013/07/realtime-face-detection-on-android-using-opencv/
-https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb
-https://stackoverflow.com/questions/37776801/opencv-facedetection-in-android-sdk-error
+Face Detection Code:  
+https://www.mirkosertic.de/blog/2013/07/realtime-face-detection-on-android-using-opencv/  
+https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb  
+https://stackoverflow.com/questions/37776801/opencv-facedetection-in-android-sdk-error  
 https://github.com/joaopedronardari/OpenCV-AndroidSamples/blob/master/app/src/main/java/com/jnardari/opencv_androidsamples/activities/FaceDetectionActivity.java
 
 
 Wissen über Begriffe:
 
-   die Matrix:
-   https://developer.android.com/reference/android/opengl/Matrix
-   CameraBridgeViewBase:
-   https://docs.opencv.org/java/2.4.4-beta/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html
-   Grundsätzlich OpenCV und Android Studios:
-   https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html
-   Farbräume in OpenCV:
-   https://stackoverflow.com/questions/26059507/how-can-i-know-if-a-image-is-rgb-in-opencv
+   die Matrix:  
+   https://developer.android.com/reference/android/opengl/Matrix  
+   CameraBridgeViewBase:  
+   https://docs.opencv.org/java/2.4.4-beta/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html  
+   Grundsätzlich OpenCV und Android Studios:  
+   https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html  
+   Farbräume in OpenCV:  
+   https://stackoverflow.com/questions/26059507/how-can-i-know-if-a-image-is-rgb-in-opencv  
 
-Kamera drehen:
-https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916
-https://amin-ahmadi.com/2017/06/01/how-to-rotate-andor-flip-mirror-images-in-opencv/
+Kamera drehen:  
+https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916  
+https://amin-ahmadi.com/2017/06/01/how-to-rotate-andor-flip-mirror-images-in-opencv/  
 
 
 
