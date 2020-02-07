@@ -184,6 +184,8 @@ https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/
 https://www.programmierenlernenhq.de/klassen-in-java/  
 https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/  
 https://www.programmierenlernenhq.de/uberladen-von-methoden-in-java/
+noch lesen: https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/
+
 
 
 OpenCV in Android Studios integrieren:  
