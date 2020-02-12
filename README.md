@@ -176,6 +176,7 @@ Zum einen haben wir weiter an unserem Blog gearbeitet. Zum anderen haben wir uns
 ## Quellen 
 
 Android Studios:  
+https://developer.android.com/training/basics/firstapp   (Android Installiern und Hello World)
 https://opencv.org/android/  
 https://opencv.org/android-best-practices/
 
