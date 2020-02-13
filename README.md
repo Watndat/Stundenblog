@@ -58,6 +58,8 @@
 
 [Donnerstag, 06.02.2020](#22)
 
+[Donnerstag, 13.02.2020](#23)
+
 </details> <hr>
 
 ## Quellen
@@ -170,6 +172,10 @@ https://github.com/Watndat/Projektbeschreibunng/blob/master/README.md
 ### Donnerstag, 06.02.2020 <a name="22"></a>
 
 Zum einen haben wir weiter an unserem Blog gearbeitet. Zum anderen haben wir uns aber auch weiter mit der Java Sprache vertraut gemacht, indem wir verschiedene Blogs durchgelesen haben. 
+
+### Donnerstag, 13.02.2020 <a name="23"></a> 
+
+Auvh heute haben wir uns weiter an unserer Github Seite gearbeitet.
 
 <hr>
 
