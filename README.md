@@ -60,6 +60,10 @@
 
 [Donnerstag, 13.02.2020](#23)
 
+[Freitag, 14.02.2020](#24)
+
+[Mittwoch, 19.02.2020](#25)
+
 </details> <hr>
 
 ## Quellen
@@ -175,7 +179,15 @@ Zum einen haben wir weiter an unserem Blog gearbeitet. Zum anderen haben wir uns
 
 ### Donnerstag, 13.02.2020 <a name="23"></a> 
 
-Auvh heute haben wir uns weiter an unserer Github Seite gearbeitet.
+Auch heute haben wir uns weiter an unserer Github Seite gearbeitet.
+
+### Freitag, 14.02.2020 <a name="24"></a> 
+
+Da nun vor allem unsere Websides im Vordergrung stehen, haben wir uns auch heute weiter mit den Texten beschäftigt. Dabei haben wir zunächst eine klare Struktur aufgebaut. Diese dient uns dazu, dass wir genau wissen, was wir noch alles machen müssen und welche Abschnitte schon fertig sind.
+
+### Mittwoch, 19.02.2020 <a name="25"></a>
+
+Zu beginn der Stunde haben wir einmal beprochen, was genau an den Apps noch zu machen ist. Dabei ist uns aufgefallen, dass die Apps soweit fertig sind. Bei der Gesichtserkennungs-App ist der wesentliche Teil, dass wir die Kamera noch drehen müssen. Allerdings veschieben wir das auf einen andere Stunden. Wir haben immer noch genug an unserer Projekteite zu schreiben, sodass wir uns auch weiterhin daraufd konzentrieren werden.
 
 <hr>
 
