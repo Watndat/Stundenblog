@@ -73,6 +73,8 @@
 
 [Freitag, 06.03.2020](#27)
 
+</details>
+
 ## Quellen
 
 [Quellen](#)
