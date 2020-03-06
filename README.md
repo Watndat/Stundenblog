@@ -68,6 +68,11 @@
 
 </details> <hr>
 
+<details>
+  <summary>März</summary>
+
+[Freitag, 06.03.2020](#27)
+
 ## Quellen
 
 [Quellen](#)
@@ -191,11 +196,15 @@ Da nun vor allem unsere Websides im Vordergrung stehen, haben wir uns auch heute
 
 Zu beginn der Stunde haben wir einmal beprochen, was genau an den Apps noch zu machen ist. Dabei ist uns aufgefallen, dass die Apps soweit fertig sind. Bei der Gesichtserkennungs-App ist der wesentliche Teil, dass wir die Kamera noch drehen müssen. Allerdings veschieben wir das auf einen andere Stunden. Wir haben immer noch genug an unserer Projekteite zu schreiben, sodass wir uns auch weiterhin daraufd konzentrieren werden.
 
-### Donnerstag, 20.02.2020
+### Donnerstag, 20.02.2020 <a name="26"></a>
 
 Heute haben wir angefangen Bilder in unsere Projektseite einzufügen und diese  dadurch zu vervollständigen. Zusätzlich haben wir nochmal durch unseren Code geschaut, um diesen zu korrigieren. Das haben wir aber dann recht schnell nicht weiter verfolgt. 
 
 <hr>
+
+### Freitag, 06.03.2020 <a name="27"></a>
+
+Seit 2 Wochen haben wir heute das erste Mal wieder Informatik. Die Stunde haben wir vor allem mit Besprechung des weiteren Vorgehen mit unserem Stundenblog und dem Projekt besprochen. Zusätzlich haben wir weiter an unserer Projektseite gearbeitet.
 
 ## Quellen 
 
