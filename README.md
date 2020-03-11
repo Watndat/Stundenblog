@@ -214,6 +214,8 @@ Seit 2 Wochen haben wir heute das erste Mal wieder Informatik. Die Stunde haben 
 
 Wir haben heute unseren Stundenblog weiter geschrieben. Dabei haben wir vor allem die Entwicklung zu unsrer App weiter erklärt und uns auch noochmal weiter besprochen, was wir noch alles machen müssen. Uns fehlen auf unserer Projektseite auch noch Bilder, jedoch machen wir diese fertig, sobal der Erklärungstext steht, damit wir die entsprechenden bilder besser heraussuchen können.
 
+<hr>
+
 ## Quellen 
 
 Android Studios:  
