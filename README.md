@@ -73,6 +73,8 @@
 
 [Freitag, 06.03.2020](#27)
 
+[Mittwoch, 11.03.2020](#28)
+
 </details>
 
 ## Quellen
@@ -207,6 +209,10 @@ Heute haben wir angefangen Bilder in unsere Projektseite einzufügen und diese  
 ### Freitag, 06.03.2020 <a name="27"></a>
 
 Seit 2 Wochen haben wir heute das erste Mal wieder Informatik. Die Stunde haben wir vor allem mit Besprechung des weiteren Vorgehen mit unserem Stundenblog und dem Projekt besprochen. Zusätzlich haben wir weiter an unserer Projektseite gearbeitet.
+
+### Mittwoch, 11.03.2020 <a name="28"></a>
+
+Wir haben heute unseren Stundenblog weiter geschrieben. Dabei haben wir vor allem die Entwicklung zu unsrer App weiter erklärt und uns auch noochmal weiter besprochen, was wir noch alles machen müssen. Uns fehlen auf unserer Projektseite auch noch Bilder, jedoch machen wir diese fertig, sobal der Erklärungstext steht, damit wir die entsprechenden bilder besser heraussuchen können.
 
 ## Quellen 
 
