@@ -75,6 +75,8 @@
 
 [Mittwoch, 11.03.2020](#28)
 
+[Freitag, 13.03.2020](#29)
+
 </details>
 
 ## Quellen
@@ -213,6 +215,10 @@ Seit 2 Wochen haben wir heute das erste Mal wieder Informatik. Die Stunde haben 
 ### Mittwoch, 11.03.2020 <a name="28"></a>
 
 Wir haben heute unseren Stundenblog weiter geschrieben. Dabei haben wir vor allem die Entwicklung zu unsrer App weiter erklärt und uns auch noochmal weiter besprochen, was wir noch alles machen müssen. Uns fehlen auf unserer Projektseite auch noch Bilder, jedoch machen wir diese fertig, sobal der Erklärungstext steht, damit wir die entsprechenden bilder besser heraussuchen können.
+
+### Freitag, 13.03.2020 <a name="29"></a> 
+
+Auch in der heutigen Informatik Stunde haben wir weiter an unserer Projektseite gearbeitet. Dafür haben wir uns mit den Programmen beschäftigt und angefangen diese zu beschreiben.
 
 <hr>
 
