@@ -108,8 +108,6 @@ Nachdem wir gestern mit dem Tutorial unsere erste App entwickelt haben, haben wi
 
 Während des Wochenendes haben wir noch weiter mit Android Studios rumprobiert und dort verschiedene Funktionen ausprobiert. Diese haben wir auch versucht in Apps einzubauen, was teilweise sehr gut funktioniert hat.
 
-=> Bild, bzw. Video von App mit Ladebalken
-
 ### Dienstag, 10.12.2019 <a name="5"></a>
 
 Nachdem wir jetzt einen Überblick haben, wie Android Studios funktionert, haben wir in dieser Stunde angefangen einmal zu reflektieren, was wir genau schon alles geschafft haben. Dies haben wir gemacht, um sicherzugehen, dass wir alles verstanden haben und somit nicht schon mit Anfgangsproblemen in unsere Schlussapp starten.
