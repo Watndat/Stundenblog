@@ -89,26 +89,28 @@
 
 ### Dienstag, 03.12.2019 <a name="1"></a>
 
-Nachdem wir nun unsere Note für das letzte Projekt bekommen haben - **15P.** - haben wir begonnen unser neues Projekt zu planen.Ein Grund dafür, dass wir zuerst heute nur geplant haben, war, dass es in der Schule kein Internet hatten.  
-Unsere erste Idee ist es eine App zu entwickeln, welche Gesichter erkennt.
+Nachdem wir nun unsere Note für das letzte Projekt bekommen haben - **15P.** - haben wir begonnen unser neues Projekt zu planen.Da es zurzeit kein Internet in der Schule gab, konnten wir auch nichts anderes machen.
+In unserem neuen Projekt wollen wir uns mit Appentwicklung, Bibliotheksnutzung und auch ein bisschen KI beschäftigen, sodass am Ende eine App rauskommt, welche Gesichter erkennen kann.
 
 ### Mittwoch, 04.12.2019 <a name="2"></a>
 
-Für unser neues Projekt haben wir heute angefangen einen Stundenblog anzulegen. Außerdem haben wir uns *Android Studio* herunterzuladen und uns ein Totorial angeschaut, wie eine solche App programmiert werden kann. Dazu haben wir auch eine erste App instaliert und schon etwas herumprobiert.
+In unserer zweiten Stunde haben wir erstmal den Stundenblog und die Projektseite angelegt. Außerdem haben wir uns [*Android Studio* heruntergeladen](#a). Um einen ersten Eindruck zubekommen, wie *Android Studios* funktioniert, haben wir uns ein Tutorial gemacht, mit dem wir unserer erste App programmiert haben.
 
 ### Donnerstag, 05.12.2019 <a name="3"></a>
 
-Heute versuchen wir den ersten Versuch von gestern nochmal nachzubauen und etwas zu vernbessern. Spoiler - das klappt noch nicht so, wie wir wollen.  
-Somit haben wir heute dazu benutzt, um uns mit dem Programm vertraut zu machen und dann auch ein Projekt so bauen zu können.
+Nachdem wir gestern mit dem Tutorial unsere erste App entwickelt haben, haben wir heute versucht diese ohne das Tutorial nachzubauen. Nach dem dies geklappt hat, haben wir uns noch weiter mit Android Studios auseinander gesetzt, um uns mit der Programmierumgebung vertraut zu machen.
+
+=> Bild, bzw. Viedo von der ersten App (My first App)
 
 ### Wochenende, 06.12. - 08.12.2019 <a name="4"></a>
 
-Über das Wochende haben wir uns nochmal etwas mit Android Studios auseinandergesetzt und weiter Funktionen gelernt.
+Während des Wochenendes haben wir noch weiter mit Android Studios rumprobiert und dort verschiedene Funktionen ausprobiert. Diese haben wir auch versucht in Apps einzubauen, was teilweise sehr gut funktioniert hat.
+
+=> Bild, bzw. Video von App mit Ladebalken
 
 ### Dienstag, 10.12.2019 <a name="5"></a>
 
-Die Stunde haben wir damit begonnen einen Plan zu erstellen, was wir bereits in Android Studios geschafft haben. Dazu haben wir eine Übersicht erstellt und zu den jeweiligen Punkten die demendsprechende Funktion geschrieben. Es wird nun für uns etwas übersichtlicher und wir können auch besser nachvolltiehen, was wir gemacht haben.  
-Außerdem haben wir uns weiter mit Android Studios auseinandergestzt, um alle Funktionen verstehen zu können.
+Nachdem wir jetzt einen Überblick haben, wie Android Studios funktionert, haben wir in dieser Stunde angefangen einmal zu reflektieren, was wir genau schon alles geschafft haben. Dies haben wir gemacht, um sicherzugehen, dass wir alles verstanden haben und somit nicht schon mit Anfgangsproblemen in unsere Schlussapp starten.
 
 ### Mittwoch, 11.12.2019 <a name="6"></a>
 
@@ -120,29 +122,51 @@ Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem
 
 ### Wochendede, 14.12. - 15.12.2019 <a name="8"></a>
 
-Über das Wochenden haben wir weiter daram herumprobiert, wie ein Passwort zu programmieren ist. Das haben wir tatsächlich geschafft. Wenn nun das Passwort eigegeben wird, dann kommt ein neuer Screen, auf dem *HAllO* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
+Über das Wochenden haben wir weiter daram herumprobiert, wie ein Passwort zu programmieren ist. Nach einiger Recherche und vielem ausprobieren, haben wir es geschafft ein Passwort festzulegen. 
+Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf dem *HAllO* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
+
+=> Bild, bzw. Video von App mit Passwort ( TestPassword2) -> einmal mit hallo einmal mit your password is wrong
+
+Nachdem uns ein einfaches Passwort gelungen ist, wollten wir dies auch noch mit einem Benutzernamen verknüpfen. Dies haben wir ebenfalls geschafft, wodurch wir unser Ziel für das Wochenende erreicht haben.
+
+=> Video (TestPasswortandUsername)
+
+Zum Schluss, bevor wir mit OpenCV anfangen, haben wir noch eine App komplett alleine programmiert. Bei dieser App haben wir verschiedene Bilder, welche auf dem Bildschirm angezeigt werden, mit mp3 Aufnahmen verknüpft, sodass wenn auf ein Bild geklickt wird, eine bestimmte mp3 Datei abgespielt wird. Außerdem haben wir bei dieser App auch das Icon verändert, damit wir nicht immer das normale Androidzeichen als Appicon haben.
+
+=> Video oder Bild von Dumme Srüche
 
 ### Montag, 16.12.2019 <a name="9"></a>
 
-Um nun unser Plan mit der Gesichtserkennung umsetzen zu können, müssen wir ein Programm für eine KI mit Android Studios verknüpfen. Dazu haben wir zunächst *Open CV* heruntergeladen und über:  
+Um nun unser Plan mit der Gesichtserkennung umsetzen zu können, müssen wir eine Bibliothek, welche KI für Gesichtserkennung enthält verknüpfen.Dazu haben wir zunächst [*Open CV* heruntergeladen](#c) und über:  
+
 https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c  
+
 mit Android Studio verknüpft.
 
 ### Dienstag, 17.12.2019 <a name="10"></a>
 
-Zunächst haben wir uns über verschiedene Tutorials gelernt, welche Funktionen mit dieser Verknüpfung möglich sind. Dazu haben wir über ein Tutorial eine Testapp ausprobiert. Dabei können verschieden Farben erkannt werden.
+Nachdem wir in der letzten Stunde OpenCV mit AndroidStudios verknüpft haben, stand heute ein Tutorial für eine Testapp auf dem Plan. Dies war ebenfalls auf der Seite, wodurch wir die Verknüpfung von OpenCV mit AndroidStudios gelernt hatten. Durch das Tutorial hatten wir unser erste App, welche Farben erkennen konnte.
+
+=> Video (Test_OpenCV)
 
 ### Mittwoch, 18.12.2019 <a name="11"></a>
 
-Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuchen wir den Code aus dem Tutorial zu verstehen und so eine erste grobe Idee zu bekommen, wie wir unser Gesichtserkennungsprogrammm programmieren können.
+Heute haben wir uns weiter mit unserer Testapp auseinander gesetzt. Dabei versuchen wir den Code aus dem Tutorial zu verstehen und so eine erste grobe Idee zu bekommen, wie diese funktioniert.
 
 ### Donnerstag, 19.12.19 <a name="12"></a>
 
-Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehen. zusätzlich haben wir grundsätzlich weiter zu verstehen. Damit wir eine bessere Übersicht über unsere Arbeitszeit haben, haben wir schonmal einen Plan erstellt, wie wir die App aufbauen und welche Funktionen diese haben soll.
+Wir haben heute weiter an unserem Testprogramm gearbeitet, um dieses zu verstehen. Damit wir eine bessere Übersicht über unsere Arbeitszeit haben, haben wir schonmal einen Plan erstellt, wie wir die App aufbauen und welche Funktionen diese haben soll.
 
 ### Weihnachtsferien, 23.12.2019 - 06.01.2020 <a name="13"></a>
   
-am projekt weiter gearbeitet
+Erstmal haben wir den Studenblogg für den Dezember ordentlich gestaltet und viele Stichpunkte ausformoliert, damit wir den Dezember schon mal fertig hatten.
+Aber wir haben auch weiter an unserem Ziel weitergearbeitet. 
+Nachdem wir endlich unserere Testapp verstanden haben, haben wir angefangen im Internet nach weitern Tutorials, wie man die mit OpenCV die [Kamera anzeigen](#d) lässt und weiteren Funktionen, welche wir für unserer App brauchen.
+Begonnen haben wir damit durch die Tutorials zulernen, wie wir die Kamera auf dem Bildschirm anzeigen lassen, und dies auch mit einer Kamera welche richtig gedreht ist. 
+
+Da noch viel Zeit in den Ferien war, und wir sehr viel Spaß an unserem Projekt haben, haben wir angefangen uns Tutorials und [Websiten für die Face Detection](#e) rausgesucht. Das heißt wir haben angefangen eine App zuentwickeln, welche Gesichter erkennt. Zwar nicht wer das ist, aber sobald ein Gesicht in der Kamera zusehen ist, wird ein grünes Quadrat um das Gesicht angezeigt.
+
+=> Video Face_Detection
 
 <hr>
 
@@ -150,27 +174,27 @@ am projekt weiter gearbeitet
 
 ### Dienstag, 14.01.2020 <a name="14"></a>
 
-Heute haben wir vor allem unseren Stundenblog aufgearbeitet. Wir haben über dieWeihnachstferien viel an unserem Programm gearbeitet, sodass die App schon Gesichter erkennen kann.
+Da in den Weihnachtsferien der Stundenblog ein wenig hängengeblieben ist, aber wir heute die Stunde damit verbracht diesen zuvervollständigen .
 
 ### Mittwoch, 15.01.2020 <a name="15"></a>
 
-Da wir über die Ferien recht viel gemacht haben, haben wir uns heute beraten und unser Projekt, soweit wie wir sind, besprochen. Außerdem haben wir angefangen den Blog weiter aufzuarbeiten.
+Nachdem wir in der letzten Stunde unseren Stundenblog aufgearbeitet haben, haben wir noch über den weiteren Verlauf unserers Projekts gesprochen, was wir noch erreichen wollen.
 
 ### Donnerstag, 16.01.2020 <a name="16"></a>
 
-Auch heute haben wir zunächst weiter an unserem Blog gearbeitet und diesen vervollständigt. Dabei haben wir auch schon mal auf den Code geschaut, um Quellen etc. enbrigen zu können.
+Da wir in den Ferien viele Quellen benutzt haben, haben wir diese heute alle sortiert und geordent, sodass wir auch dort ein bisschen Ordnung reingebracht haben.
 
 ### Mittwoch, 22.01.2020 <a name="17"></a>
 
-In der letzten Stunde haben wir schonmal alle Quellen geöffnet und durvchsucht, sodass wir nun heute die Quellen in unserem Blog sortiert und eingefügt haben. Dabei haben wir zur besseren übersicht Kategorien erstellt, bei denen die einzellnen Quellen zuzuordnen sind. Das Problem an unsererm derzeitigen Projekt ist auch, dass viel von dem Code aus dem internet kommt, sodass wir für jeden Code auch eine Quelle haben. 
+Auch in dieser Stunde haben wir noch weiter an unseren Quellen gearbeitet. Nach dem wir diese sortiert haben, haben wir noch weiter im Internet recharchiert für unser Projekt.
 
 ### Donnerstag, 23.01.2020 <a name="18"></a>
 
-Die heutige Stunde haben wir dafür genutzt an unserer Projektseite weiterzuschreiben. Bei unserem Projekt sitzen wir immernoch daran den Code zu verstehen. Darum versuchen wir uns da immer mal zwischendurch ranzusetzten, um diesen weiter nachvollziehen zu können.
+In der heutigen Stunde haben wir mit unser Projektseite angefangen. Wir haben uns für die Seite eine erstes grobes Rahmengestell überlegt, wie wir unser Projekt ordentlich darstelln könne. Da wir gemerkt haben, dass unser Projekt nicht aus einer einzigen App besteht, sondern aus dem ganzen Prozess den wir durchlebt haben. Das heißt zu unserem Projekt gehören auch die ganzen Vorgängerapps, welche wir programmiert haben, um bis hierhin zu kommen.
 
 ### Dienstag, 28.01.2020 <a name="19"></a>
 
-Auch heute haben wir unsere Stunde damit verbracht die Githup Projektseite zu vervollständigen. Dabei haben wir auch auf dem Code von den App geschaut, um diesen weiter zu verstehen. 
+Nachdem wir in der letzten Stunde uns einen Plan für die Projektseite ausgearbeitet haben, haben wir heute angefangen die Seite zu schreiben. Außerdem haben wir auch noch weiter an unserem Stundenblog gearbeitet.
 
 <hr>
 
@@ -178,7 +202,7 @@ Auch heute haben wir unsere Stunde damit verbracht die Githup Projektseite zu ve
 
 ### Dienstag, 04.02.2020 <a name="20"></a>
 
-Diese Stunde haben wir einen Plan gemacht, was wir alles noch machen müssen. Dabei steht vor allem der Blog im Vordergrund. Zusätzlich müssen wir noch in der Gesichtserkennung die Kamera drehen, sodass die Gesichtserkennung die Gesichter sicherer erkennt.
+Diese Stunde war eine Reflektionsstunde. Wir haben über das gesamte Projekt gemerkt, dass unser Ziel, welches wir uns am Anfang gesetzt haben, ein bisschen zu hoch für uns war. Und wir diese nicht mehr in der verbliebenen Zeit umsetzten können. Deswegen haben wir uns überlegt, was wir realistisch gesehen noch bis zum Abgabedatum schaffen können, und was wir auch noch schaffen wollen. Hierbei sind wir zu dem Schluss gekommen, dass wir auf jedenfall die Kamera bei unser derzeitigen App noch um 90° drehen wollen. Wobei wir uns allerdings dazu entschieden haben dies auch als letzte Aufgabe für unsere App zunehemen. Dadaurch kann unserer App zwar keine Gesichter wie geplant mit Namen erkennen, aber sie erkennt grundsätzlich Gesichter. Darauf sind wir auch schon stolz dies während unserem Informatikkurs geschafft zuhaben.
 
 ### Mittwoch, 05.02.2020 <a name="21"></a>
 
@@ -188,11 +212,11 @@ https://github.com/Watndat/Projektbeschreibunng/blob/master/README.md
 
 ### Donnerstag, 06.02.2020 <a name="22"></a>
 
-Zum einen haben wir weiter an unserem Blog gearbeitet. Zum anderen haben wir uns aber auch weiter mit der Java Sprache vertraut gemacht, indem wir verschiedene Blogs durchgelesen haben. 
+Zum einen haben wir weiter an unserem Blog und der Projektseite gearbeitet. Zum anderen haben wir uns aber auch weiter mit der [Java Sprache](#b) vertraut gemacht, um diese auch außerhalb unserer Apps zuverstehen. 
 
 ### Donnerstag, 13.02.2020 <a name="23"></a> 
 
-Auch heute haben wir uns weiter an unserer Github Seite gearbeitet.
+Auch heute haben wir uns weiter an unserern Github Seiten gearbeitet, vorallendingen an unserer Projektseite, da diesen noch am meisten bearbeitet werden muss.
 
 ### Freitag, 14.02.2020 <a name="24"></a> 
 
@@ -200,74 +224,75 @@ Da nun vor allem unsere Websides im Vordergrung stehen, haben wir uns auch heute
 
 ### Mittwoch, 19.02.2020 <a name="25"></a>
 
-Zu beginn der Stunde haben wir einmal beprochen, was genau an den Apps noch zu machen ist. Dabei ist uns aufgefallen, dass die Apps soweit fertig sind. Bei der Gesichtserkennungs-App ist der wesentliche Teil, dass wir die Kamera noch drehen müssen. Allerdings veschieben wir das auf einen andere Stunden. Wir haben immer noch genug an unserer Projekteite zu schreiben, sodass wir uns auch weiterhin daraufd konzentrieren werden.
+Zu beginn der Stunde haben wir einmal beprochen, welche Apps wir in unsere Projekt einbringen wollen und welche dafür noch ein paar Korrigturen brauchen. Hierbei haben wir uns darauf geeinigt, dass wir eigentlich alle Apps soweit fertig sind, bis auf die Face_Dection App. Bei dieser müssen wir noch die Kamera drehen, dies haben wir aber auf später verschoben. Da unsere Projektseite nicht wirklich voran kommt, haben wir heute noch weiter daran gearbeitet.
 
 ### Donnerstag, 20.02.2020 <a name="26"></a>
 
-Heute haben wir angefangen Bilder in unsere Projektseite einzufügen und diese  dadurch zu vervollständigen. Zusätzlich haben wir nochmal durch unseren Code geschaut, um diesen zu korrigieren. Das haben wir aber dann recht schnell nicht weiter verfolgt. 
+Auch heute haben wir an unserer Projektseite und unserern Stundenblog gearbeitet, um hier ein bisschen voranzukommen.
 
 <hr>
 
 ### Freitag, 06.03.2020 <a name="27"></a>
 
-Seit 2 Wochen haben wir heute das erste Mal wieder Informatik. Die Stunde haben wir vor allem mit Besprechung des weiteren Vorgehen mit unserem Stundenblog und dem Projekt besprochen. Zusätzlich haben wir weiter an unserer Projektseite gearbeitet.
+Nachdem die letzten Stunden Informatik leider ausgefallen sind und wir auch mitten in unserer ABI Vorbereitung stecken, haben wir uns heute das erstemal wieder mit unser Projektseite beschäftig. Da der Abgabetermin immer näher kommt, haben wir weiter hin nur fleißig an unsern Seiten gearbeitet.
 
 ### Mittwoch, 11.03.2020 <a name="28"></a>
 
-Wir haben heute unseren Stundenblog weiter geschrieben. Dabei haben wir vor allem die Entwicklung zu unsrer App weiter erklärt und uns auch noochmal weiter besprochen, was wir noch alles machen müssen. Uns fehlen auf unserer Projektseite auch noch Bilder, jedoch machen wir diese fertig, sobal der Erklärungstext steht, damit wir die entsprechenden bilder besser heraussuchen können.
+Wir haben heute unseren Stundenblog weiter geschrieben. Dabei haben wir vor allem die Entwicklung zu unsrer App weiter erklärt und uns auch nochmal weiter besprochen, was wir noch alles machen müssen. Uns fehlen auf unserer Projektseite auch noch Bilder, jedoch machen wir diese fertig, sobald der Erklärungstext steht, damit wir die entsprechenden Bilder besser heraussuchen können.
 
 ### Freitag, 13.03.2020 <a name="29"></a> 
 
 Auch in der heutigen Informatik Stunde haben wir weiter an unserer Projektseite gearbeitet. Dafür haben wir uns mit den Programmen beschäftigt und angefangen diese zu beschreiben.
 
+### Coronafrei, ab 16.03.2020 <a name="30"></a>
+
+Da wir aufgrund des Coronavirus keine Schule mehr haben, arbeiten wir zu Hause an unserem  Stundenblog und der Projektseite weiter, aber auch an unserer letzten App, wo wir immer noch die Kamera drehen müssen. 
+Den Stundenblog müssen wir als erstes abgeben, weswegen wir uns gerade mehr auf den fokussieren, als auf die Projektseit oder das Kamera drehen. 
+Nach der Abgabe des Stundenblogs, werden wir nur noch weiter an unserer Projektseite arbeiten und [die Kamera der letzten App drehen](#f).
+
 <hr>
 
 ## Quellen 
 
-Android Studios:  
+Hier haben wir einmal unserer gesamten Quellen aufgelistet. Einige sind mit dem Text verknüpft, wenn diese dierekt zu dem im Text angesprochen Thema passen. Andere Quellen sind nicht verknüpft, diese sind dann allgemeine Quellen oder auch welche die wir nicht unbedingt einem genauen Thema zuordnen konnten.
+
+#### Android Studios:  <a name="a"></a>
 https://developer.android.com/training/basics/firstapp   (Android Installiern und Hello World)
 https://opencv.org/android/  
 https://opencv.org/android-best-practices/
 
-Java Sprache:  
+#### Java Sprache:  <a name="b"></a>
 https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/  
 https://www.programmierenlernenhq.de/klassen-in-java/  
 https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/  
 https://www.programmierenlernenhq.de/uberladen-von-methoden-in-java/
 noch lesen: https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/
 
-
-
-OpenCV in Android Studios integrieren:  
+#### OpenCV in Android Studios integrieren:  <a name="c"></a>
 https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c -> auch Tutorial  
 https://developer.android.com/ndk/downloads  
 https://stackoverflow.com/questions/6691951/android-how-to-add-r-raw-to-project/40538491
 
-Importe für OpenCV finden:  
-https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java  
-https://github.com/opencv/opencv/blob/master/data/lbpcascades/lbpcascade_frontalface.xml  
-https://github.com/opencv/opencv/tree/master/data/lbpcascades
-
-
-Kamera anzeigen:  
+#### Kamera anzeigen:  <a name="d"></a> 
 https://blog.codeonion.com/2016/04/09/show-camera-on-android-app-using-opencv-for-android/  
 https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java  
 https://gist.github.com/heaversm/63e8036af6a124aecf3b26898bd2a0ad
-
-   der Inder:  
-   https://www.youtube.com/watch?v=VRLfzi5bdJs&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=1  
-   https://www.youtube.com/watch?v=7M5Q4ksy5zc&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=2  
-   https://www.youtube.com/watch?v=xDA0Rp9018M&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=3  
+ 
+https://www.youtube.com/watch?v=VRLfzi5bdJs&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=1  
+https://www.youtube.com/watch?v=7M5Q4ksy5zc&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=2  
+https://www.youtube.com/watch?v=xDA0Rp9018M&list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_&index=3  
      
-
-Face Detection Code:  
+#### Face Detection Code:  <a name="e"></a> 
 https://www.mirkosertic.de/blog/2013/07/realtime-face-detection-on-android-using-opencv/  
 https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb  
 https://stackoverflow.com/questions/37776801/opencv-facedetection-in-android-sdk-error  
 https://github.com/joaopedronardari/OpenCV-AndroidSamples/blob/master/app/src/main/java/com/jnardari/opencv_androidsamples/activities/FaceDetectionActivity.java
 
+#### Kamera drehen: <a name="f"></a> 
+https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916  
+https://amin-ahmadi.com/2017/06/01/how-to-rotate-andor-flip-mirror-images-in-opencv/  
 
-Wissen über Begriffe:
+#### Wissen über Begriffe:
 
    die Matrix:  
    https://developer.android.com/reference/android/opengl/Matrix  
@@ -277,10 +302,15 @@ Wissen über Begriffe:
    https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html  
    Farbräume in OpenCV:  
    https://stackoverflow.com/questions/26059507/how-can-i-know-if-a-image-is-rgb-in-opencv  
+   
+   
+#### Importe für OpenCVfinden:  
+https://github.com/opencv/opencv/blob/master/samples/android/tutorial-1-camerapreview/src/org/opencv/samples/tutorial1/Tutorial1Activity.java  
+https://github.com/opencv/opencv/blob/master/data/lbpcascades/lbpcascade_frontalface.xml  
+https://github.com/opencv/opencv/tree/master/data/lbpcascades
 
-Kamera drehen:  
-https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916  
-https://amin-ahmadi.com/2017/06/01/how-to-rotate-andor-flip-mirror-images-in-opencv/  
+
+
 
 
 
