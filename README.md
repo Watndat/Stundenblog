@@ -77,11 +77,13 @@
 
 [Freitag, 13.03.2020](#29)
 
+[Coronafrei, ab 16.03.2020](#30)
+
 </details>
 
 ## Quellen
 
-[Quellen](#)
+[Quellen](#31)
 
 <hr>
 
@@ -94,7 +96,7 @@ In unserem neuen Projekt wollen wir uns mit Appentwicklung, Bibliotheksnutzung u
 
 ### Mittwoch, 04.12.2019 <a name="2"></a>
 
-In unserer zweiten Stunde haben wir erstmal den Stundenblog und die Projektseite angelegt. Außerdem haben wir uns [*Android Studio* heruntergeladen](#a). Um einen ersten Eindruck zubekommen, wie *Android Studios* funktioniert, haben wir uns ein Tutorial gemacht, mit dem wir unserer erste App programmiert haben.
+In unserer zweiten Stunde haben wir erstmal den Stundenblog und die Projektseite angelegt. Außerdem haben wir uns [Android Studio heruntergeladen](#a). Um einen ersten Eindruck zubekommen, wie Android Studios funktioniert, haben wir uns ein Tutorial gemacht, mit dem wir unserer erste App programmiert haben.
 
 ### Donnerstag, 05.12.2019 <a name="3"></a>
 
@@ -123,7 +125,7 @@ Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem
 ### Wochendede, 14.12. - 15.12.2019 <a name="8"></a>
 
 Über das Wochenden haben wir weiter daram herumprobiert, wie ein Passwort zu programmieren ist. Nach einiger Recherche und vielem ausprobieren, haben wir es geschafft ein Passwort festzulegen. 
-Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf dem *HAllO* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
+Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf dem *hallo* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
 
 => Bild, bzw. Video von App mit Passwort ( TestPassword2) -> einmal mit hallo einmal mit your password is wrong
 
@@ -137,7 +139,7 @@ Zum Schluss, bevor wir mit OpenCV anfangen, haben wir noch eine App komplett all
 
 ### Montag, 16.12.2019 <a name="9"></a>
 
-Um nun unser Plan mit der Gesichtserkennung umsetzen zu können, müssen wir eine Bibliothek, welche KI für Gesichtserkennung enthält verknüpfen.Dazu haben wir zunächst [*Open CV* heruntergeladen](#c) und über:  
+Um nun unser Plan mit der Gesichtserkennung umsetzen zu können, müssen wir eine Bibliothek, welche KI für Gesichtserkennung enthält verknüpfen.Dazu haben wir zunächst [Open CV heruntergeladen](#c) und über:  
 
 https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c  
 
@@ -244,7 +246,7 @@ Wir haben heute unseren Stundenblog weiter geschrieben. Dabei haben wir vor alle
 
 Auch in der heutigen Informatik Stunde haben wir weiter an unserer Projektseite gearbeitet. Dafür haben wir uns mit den Programmen beschäftigt und angefangen diese zu beschreiben.
 
-### Coronafrei, ab 16.03.2020 <a name="30"></a>
+### Coronafrei, ab 16.03.2020 <a name="30"></a> 
 
 Da wir aufgrund des Coronavirus keine Schule mehr haben, arbeiten wir zu Hause an unserem  Stundenblog und der Projektseite weiter, aber auch an unserer letzten App, wo wir immer noch die Kamera drehen müssen. 
 Den Stundenblog müssen wir als erstes abgeben, weswegen wir uns gerade mehr auf den fokussieren, als auf die Projektseit oder das Kamera drehen. 
@@ -252,7 +254,7 @@ Nach der Abgabe des Stundenblogs, werden wir nur noch weiter an unserer Projekts
 
 <hr>
 
-## Quellen 
+## Quellen <a name="31"></a> 
 
 Hier haben wir einmal unserer gesamten Quellen aufgelistet. Einige sind mit dem Text verknüpft, wenn diese dierekt zu dem im Text angesprochen Thema passen. Andere Quellen sind nicht verknüpft, diese sind dann allgemeine Quellen oder auch welche die wir nicht unbedingt einem genauen Thema zuordnen konnten.
 
