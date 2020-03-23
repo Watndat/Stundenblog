@@ -259,7 +259,7 @@ Nach der Abgabe des Stundenblogs, werden wir nur noch weiter an unserer Projekts
 Hier haben wir einmal unserer gesamten Quellen aufgelistet. Einige sind mit dem Text verknüpft, wenn diese dierekt zu dem im Text angesprochen Thema passen. Andere Quellen sind nicht verknüpft, diese sind dann allgemeine Quellen oder auch welche die wir nicht unbedingt einem genauen Thema zuordnen konnten.
 
 #### Android Studios:  <a name="a"></a>
-https://developer.android.com/training/basics/firstapp   (Android Installiern und Hello World)
+https://developer.android.com/training/basics/firstapp
 https://opencv.org/android/  
 https://opencv.org/android-best-practices/
 
@@ -268,10 +268,10 @@ https://www.programmierenlernenhq.de/klassen-und-objekte-in-java/
 https://www.programmierenlernenhq.de/klassen-in-java/  
 https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/  
 https://www.programmierenlernenhq.de/uberladen-von-methoden-in-java/
-noch lesen: https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/
+https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/
 
 #### OpenCV in Android Studios integrieren:  <a name="c"></a>
-https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c -> auch Tutorial  
+https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c   
 https://developer.android.com/ndk/downloads  
 https://stackoverflow.com/questions/6691951/android-how-to-add-r-raw-to-project/40538491
 
