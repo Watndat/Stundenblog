@@ -123,7 +123,7 @@ Da heute mal wieder das Internet in der Schule ausgefallen ist, konnten wir zwar
 
 Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem recherchieren konnten. Momentan sind wir am Ausprobieren, dass wir ein Passwort eingeben und der Schirm danach die Person identifiziert. Allerdings konnten wir nich nicht herausfinden, wie man ein Passwort im Code definiert. 
 
-### Wochendede, 14.12. - 15.12.2019 <a name="8"></a>
+### Wochendende, 14.12. - 15.12.2019 <a name="8"></a>
 
 Über das Wochenden haben wir weiter daram herumprobiert, wie ein Passwort zu programmieren ist. Nach einiger Recherche und vielem ausprobieren, haben wir es geschafft ein Passwort festzulegen. 
 Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf dem *hallo* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
