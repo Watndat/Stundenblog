@@ -106,7 +106,6 @@ Nachdem wir gestern mit dem Tutorial unsere erste App entwickelt haben, haben wi
 
 ![Screenshot_20200324_182231_com example myfirstapp_2](https://user-images.githubusercontent.com/54102292/77458587-ba1ffa00-6dfe-11ea-930f-2d98227def95.jpg)
 
-=> Bild, bzw. Viedo von der ersten App (My first App)
 
 ### Wochenende, 06.12. - 08.12.2019 <a name="4"></a>
 
@@ -136,8 +135,6 @@ Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf
 ![Screenshot_20200324_184105_com example testpassword2](https://user-images.githubusercontent.com/54102292/77459036-5e09a580-6dff-11ea-9bfb-5f134e86ef01.jpg)
 
 
-=> Bild, bzw. Video von App mit Passwort ( TestPassword2) -> einmal mit hallo einmal mit your password is wrong
-
 Nachdem uns ein einfaches Passwort gelungen ist, wollten wir dies auch noch mit einem Benutzernamen verknüpfen. Dies haben wir ebenfalls geschafft, wodurch wir unser Ziel für das Wochenende erreicht haben.
 
 ![Screenshot_20200324_184443_com example testpasswortandusername](https://user-images.githubusercontent.com/54102292/77459423-015aba80-6e00-11ea-81eb-9a4acdee9ac5.jpg)
@@ -146,11 +143,9 @@ Nachdem uns ein einfaches Passwort gelungen ist, wollten wir dies auch noch mit 
 
 ![Screenshot_20200324_184509_com example testpasswortandusername](https://user-images.githubusercontent.com/54102292/77459341-df613800-6dff-11ea-9929-2696fd9a18f2.jpg)
 
-=> Video (TestPasswortandUsername)
 
 Zum Schluss, bevor wir mit OpenCV anfangen, haben wir noch eine App komplett alleine programmiert. Bei dieser App haben wir verschiedene Bilder, welche auf dem Bildschirm angezeigt werden, mit mp3 Aufnahmen verknüpft, sodass wenn auf ein Bild geklickt wird, eine bestimmte mp3 Datei abgespielt wird. Außerdem haben wir bei dieser App auch das Icon verändert, damit wir nicht immer das normale Androidzeichen als Appicon haben.
 
-=> Video oder Bild von Dumme Srüche
 
 ### Montag, 16.12.2019 <a name="9"></a>
 
@@ -163,8 +158,6 @@ mit Android Studio verknüpft.
 ### Dienstag, 17.12.2019 <a name="10"></a>
 
 Nachdem wir in der letzten Stunde OpenCV mit AndroidStudio verknüpft haben, stand heute ein Tutorial für eine Testapp auf dem Plan. Dies war ebenfalls auf der Seite, wodurch wir die Verknüpfung von OpenCV mit AndroidStudios gelernt hatten. Durch das Tutorial hatten wir unser erste App, welche Farben erkennen konnte.
-
-=> Video (Test_OpenCV)
 
 ### Mittwoch, 18.12.2019 <a name="11"></a>
 
@@ -182,8 +175,6 @@ Nachdem wir endlich unserere Testapp verstanden haben, haben wir angefangen im I
 Begonnen haben wir damit durch die Tutorials zulernen, wie wir die Kamera auf dem Bildschirm anzeigen lassen, und dies auch mit einer Kamera welche richtig gedreht ist. 
 
 Da noch viel Zeit in den Ferien war und wir sehr viel Spaß an unserem Projekt haben, haben wir angefangen uns Tutorials und [Websiten für die Face Detection](#e) rausgesucht. Das heißt wir haben angefangen eine App zu entwickeln, welche Gesichter erkennt. Zwar nicht wer das ist, aber sobald ein Gesicht in der Kamera zusehen ist, wird ein grünes Quadrat um das Gesicht angezeigt.
-
-=> Video Face_Detection
 
 <hr>
 
