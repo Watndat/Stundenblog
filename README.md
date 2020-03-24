@@ -102,6 +102,10 @@ In unserer zweiten Stunde haben wir erstmal den Stundenblog und die Projektseite
 
 Nachdem wir gestern mit dem Tutorial unsere erste App entwickelt haben, haben wir heute versucht diese ohne das Tutorial nachzubauen. Nach dem dies geklappt hat, haben wir uns noch weiter mit Android Studio auseinander gesetzt, um uns mit der Programmierumgebung vertraut zu machen.
 
+![Screenshot_20200324_182231_com example myfirstapp](https://user-images.githubusercontent.com/54102292/77457200-a5426700-6dfc-11ea-81a6-310cb9fe3f38.jpg)
+
+![Screenshot_20200324_182227_com example myfirstapp](https://user-images.githubusercontent.com/54102292/77457224-ad9aa200-6dfc-11ea-86d8-a9d50d818485.jpg)
+
 => Bild, bzw. Viedo von der ersten App (My first App)
 
 ### Wochenende, 06.12. - 08.12.2019 <a name="4"></a>
