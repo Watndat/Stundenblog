@@ -129,6 +129,13 @@ Heute gab es nun endlich wieder Internet in der Schule, sodass wir unser Problem
 Über das Wochenden haben wir weiter daram herumprobiert, wie ein Passwort zu programmieren ist. Nach einiger Recherche und vielem ausprobieren, haben wir es geschafft ein Passwort festzulegen. 
 Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf dem *hallo* steht. Wenn das passwort falsch ist, dann erscheint der neue Screen mit dem Text *your password is wrong*
 
+![Screenshot_20200324_184049_com example testpassword2_2](https://user-images.githubusercontent.com/54102292/77459028-5ba74b80-6dff-11ea-9111-5148ccb77429.jpg)
+
+![Screenshot_20200324_184055_com example testpassword2_2](https://user-images.githubusercontent.com/54102292/77459031-5cd87880-6dff-11ea-8654-342b21857d6a.jpg)
+
+![Screenshot_20200324_184105_com example testpassword2](https://user-images.githubusercontent.com/54102292/77459036-5e09a580-6dff-11ea-9bfb-5f134e86ef01.jpg)
+
+
 => Bild, bzw. Video von App mit Passwort ( TestPassword2) -> einmal mit hallo einmal mit your password is wrong
 
 Nachdem uns ein einfaches Passwort gelungen ist, wollten wir dies auch noch mit einem Benutzernamen verknüpfen. Dies haben wir ebenfalls geschafft, wodurch wir unser Ziel für das Wochenende erreicht haben.
