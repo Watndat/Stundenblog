@@ -176,7 +176,7 @@ Begonnen haben wir damit durch die Tutorials zulernen, wie wir die Kamera auf de
 
 Da noch viel Zeit in den Ferien war und wir sehr viel Spaß an unserem Projekt haben, haben wir angefangen uns Tutorials und [Websiten für die Face Detection](#e) rausgesucht. Das heißt wir haben angefangen eine App zu entwickeln, welche Gesichter erkennt. Zwar nicht wer das ist, aber sobald ein Gesicht in der Kamera zusehen ist, wird ein grünes Quadrat um das Gesicht angezeigt.
 
-[Screenshot_20200324_190833_com example face_detection](https://user-images.githubusercontent.com/54102292/77461978-b347b600-6e03-11ea-9a3f-2e1982209360.jpg)
+![Screenshot_20200324_190833_com example face_detection](https://user-images.githubusercontent.com/54102292/77461978-b347b600-6e03-11ea-9a3f-2e1982209360.jpg)
 
 <hr>
 
