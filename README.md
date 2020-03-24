@@ -140,6 +140,12 @@ Wenn nun das richtige Passwort eingegeben wird, dann kommt ein neuer Screen, auf
 
 Nachdem uns ein einfaches Passwort gelungen ist, wollten wir dies auch noch mit einem Benutzernamen verknüpfen. Dies haben wir ebenfalls geschafft, wodurch wir unser Ziel für das Wochenende erreicht haben.
 
+![Screenshot_20200324_184443_com example testpasswortandusername](https://user-images.githubusercontent.com/54102292/77459423-015aba80-6e00-11ea-81eb-9a4acdee9ac5.jpg)
+
+![Screenshot_20200324_184455_com example testpasswortandusername](https://user-images.githubusercontent.com/54102292/77459338-de300b00-6dff-11ea-95c4-542b339ddd67.jpg)
+
+![Screenshot_20200324_184509_com example testpasswortandusername](https://user-images.githubusercontent.com/54102292/77459341-df613800-6dff-11ea-9929-2696fd9a18f2.jpg)
+
 => Video (TestPasswortandUsername)
 
 Zum Schluss, bevor wir mit OpenCV anfangen, haben wir noch eine App komplett alleine programmiert. Bei dieser App haben wir verschiedene Bilder, welche auf dem Bildschirm angezeigt werden, mit mp3 Aufnahmen verknüpft, sodass wenn auf ein Bild geklickt wird, eine bestimmte mp3 Datei abgespielt wird. Außerdem haben wir bei dieser App auch das Icon verändert, damit wir nicht immer das normale Androidzeichen als Appicon haben.
