@@ -100,7 +100,7 @@ In unserer zweiten Stunde haben wir erstmal den Stundenblog und die Projektseite
 
 ### Donnerstag, 05.12.2019 <a name="3"></a>
 
-Nachdem wir gestern mit dem Tutorial unsere erste App entwickelt haben, haben wir heute versucht diese ohne das Tutorial nachzubauen. Nach dem dies geklappt hat, haben wir uns noch weiter mit Android Studio auseinander gesetzt, um uns mit der Programmierumgebung vertraut zu machen.
+Nachdem wir gestern mit dem Tutorial unsere erste App entwickelt haben, haben wir heute versucht diese ohne das Tutorial nachzubauen. Nachdem dies geklappt hat, haben wir uns noch weiter mit Android Studio auseinander gesetzt, um uns mit der Programmierumgebung vertraut zu machen.
 
 ![Screenshot_20200324_182227_com example myfirstapp_2](https://user-images.githubusercontent.com/54102292/77458366-5e557100-6dfe-11ea-9d17-6054dd558f0e.jpg)
 
@@ -175,6 +175,8 @@ Nachdem wir endlich unserere Testapp verstanden haben, haben wir angefangen im I
 Begonnen haben wir damit durch die Tutorials zulernen, wie wir die Kamera auf dem Bildschirm anzeigen lassen, und dies auch mit einer Kamera welche richtig gedreht ist. 
 
 Da noch viel Zeit in den Ferien war und wir sehr viel Spaß an unserem Projekt haben, haben wir angefangen uns Tutorials und [Websiten für die Face Detection](#e) rausgesucht. Das heißt wir haben angefangen eine App zu entwickeln, welche Gesichter erkennt. Zwar nicht wer das ist, aber sobald ein Gesicht in der Kamera zusehen ist, wird ein grünes Quadrat um das Gesicht angezeigt.
+
+[Screenshot_20200324_190833_com example face_detection](https://user-images.githubusercontent.com/54102292/77461978-b347b600-6e03-11ea-9a3f-2e1982209360.jpg)
 
 <hr>
 
